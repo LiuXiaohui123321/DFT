@@ -1,2 +1,0 @@
-libpyspg==1.4.1
-phonopy==1.10.8
