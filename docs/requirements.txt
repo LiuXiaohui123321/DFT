@@ -1,2 +1,2 @@
-libpyspg==1.4.1
+libpyspg==1.4.1.post0
 phonopy==1.10.8
